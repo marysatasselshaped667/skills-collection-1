@@ -11,7 +11,7 @@ Related repos:
 
 ## What this repo contains
 
-- `967` skill folders in [`SKILLS/`](/home/sizzlebop/PINKPIXEL/PROJECTS/CURRENT/skills-collection-1/SKILLS)
+- `969` skill folders in [`SKILLS/`](/home/sizzlebop/PINKPIXEL/PROJECTS/CURRENT/skills-collection-1/SKILLS)
 - Skill definitions, typically in `SKILL.md`
 - Optional supporting material such as `references/`, `scripts/`, `assets/`, examples, and license files
 - A mix of engineering, security, research, writing, product, automation, frontend, growth, and domain-specific skills
